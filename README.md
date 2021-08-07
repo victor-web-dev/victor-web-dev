@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-web-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-web-dev&show_icons=true&theme=radical&bg_color=f5f6fa&text_color=e84118&hide_border=true&include_all_commits=true&count_private=true&title_color=192a56&icon_color=273c75)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-web-dev&show_icons=true&theme=radical&bg_color=f5f6fa&text_color=e84118&hide_border=true&include_all_commits=true&count_private=true&title_color=192a56&icon_color=273c75) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-web-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
+
+<p align="center">
+<img src="https://visitor-badge.glitch.me/badge?page_id=victor-web-dev.victor-web-dev" />
+</p>
