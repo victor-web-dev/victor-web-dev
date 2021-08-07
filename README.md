@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 <hr/> 
   
-### Icons and gifs sources and ideas
+### Sources and Ideas
 <p align="center" color="white">
 <div><a href="https://icons8.com/">Icons8</a></div>
 <div><a href="https://www.freeiconspng.com/">Freeiconspng</a></div>
