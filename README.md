@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ## Contact
 <!-- CONTACT-LIST:START -->
 <p>
-  <a href="https://www.linkedin.com/in/veofa/" title="Linkedin logo from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/linkedin-logo-1.png" width="100" alt="Linkedin Logo" /></a>
+  <a href="https://www.linkedin.com/in/veofa/" title="Linkedin logo"><img src="https://www.freeiconspng.com/uploads/linkedin-logo-1.png" width="100" alt="Linkedin Logo" /></a>
 </p>
 <!-- CONTACT-LIST:END -->
 
