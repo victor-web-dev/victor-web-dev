@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## Blog
 <!-- BLOG-POST-LIST:START -->
 - [Github-Pages (in construction)](https://victor-web-dev.github.io/)
-- [ 2021 Q3 - Project Template ](https://victor-web-dev.github.io/Dashboard-Template/)
+- [ 2021 first semester - Project Template ](https://victor-web-dev.github.io/Dashboard-Template/)
 <!-- BLOG-POST-LIST:END -->
 ## Contact
 <!-- CONTACT-LIST:START -->
