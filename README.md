@@ -42,12 +42,14 @@ Here are some ideas to get you started:
 </p>
   
 <p align="center">
-<img title="Git" src="https://www.freeiconspng.com/uploads/github-logo-icon-10.jpg" width="100" alt="Github Logo Vector Free" />
-<img title="Github" src="https://www.freeiconspng.com/uploads/github-cat-in-a-circle-icon-21.png" width="100" alt="Github cat in a circle Icon" />
-<img title="Linux" src="https://www.freeiconspng.com/uploads/penguin-linux-cartoon-png-17.png" width="100" alt="penguin, linux cartoon png" /></a>
-<img title="Javascript" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="100" alt="javascript vector logo yellow png transparent javascript vector" />
-<img title="HTML5" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" width="100" alt="html5 logo, html logo" />
-<img title="CSS3" src="https://img.icons8.com/color/480/000000/css3.png" width="110"/>
+<img title="Git" src="https://img.icons8.com/color/96/000000/git.png"/>
+<img title="Github" src="https://img.icons8.com/color/100/000000/github--v3.png"/>
+<img title="Linux" src="https://img.icons8.com/color/96/000000/linux--v1.png"/>
+<img title="Javascript" src="https://img.icons8.com/color/96/000000/javascript--v1.png"/>
+<img title="HTML" src="https://img.icons8.com/dusk/128/000000/html-5.png" width="100"/>
+<img title="CSS3" src="https://img.icons8.com/dusk/128/000000/css3.png" width="100"/>
+<img title="ReactJs" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
+<img title="docker" src="https://img.icons8.com/dusk/128/000000/docker.png" width="100"/>
 
 </p>
 
