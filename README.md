@@ -1,5 +1,5 @@
-# Hello, I'm Victor. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
-<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+# Hello, I'm Victor. <img width=5% src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" > 
+<p align="left"><img width=15% src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 - 🌱 Currently developing myself; 
 - 🔭 Studying Web Dev at [Trybe](https://www.betrybe.com/);
@@ -35,11 +35,6 @@ Here are some ideas to get you started:
 <!-- CONTACT-LIST:END -->
 
 ## Knowledge/Skills
-<p align="center">
-  <a>
-    <img width="100%" height="250" src="https://github.com/alansmathew/alansmathew/raw/master/skill.gif" alt="lang image here" />
-  </a>
-</p>
   
 <p align="center">
 <img title="Git" src="https://img.icons8.com/color/96/000000/git.png"/>
