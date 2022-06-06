@@ -30,21 +30,21 @@ Here are some ideas to get you started:
 ## Contact
 <!-- CONTACT-LIST:START -->
 <p>
-  <a href="https://www.linkedin.com/in/veofa/" title="Linkedin logo"><img src="https://www.freeiconspng.com/uploads/linkedin-logo-1.png" width="100" alt="Linkedin Logo" /></a>
+  <a href="https://www.linkedin.com/in/veofa/" title="Linkedin logo"><img width=5% src="https://www.freeiconspng.com/uploads/linkedin-logo-1.png" width="100" alt="Linkedin Logo" /></a>
 </p>
 <!-- CONTACT-LIST:END -->
 
 ## Knowledge/Skills
   
 <p align="center">
-<img title="Git" src="https://img.icons8.com/color/96/000000/git.png"/>
-<img title="Github" src="https://img.icons8.com/color/100/000000/github--v3.png"/>
-<img title="Linux" src="https://img.icons8.com/color/96/000000/linux--v1.png"/>
-<img title="Javascript" src="https://img.icons8.com/color/96/000000/javascript--v1.png"/>
-<img title="HTML" src="https://img.icons8.com/dusk/128/000000/html-5.png" width="100"/>
-<img title="CSS3" src="https://img.icons8.com/dusk/128/000000/css3.png" width="100"/>
-<img title="ReactJs" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
-<img title="docker" src="https://img.icons8.com/dusk/128/000000/docker.png" width="100"/>
+<img width=5% title="Git" src="https://img.icons8.com/color/96/000000/git.png"/>
+<img width=5% title="Github" src="https://img.icons8.com/color/100/000000/github--v3.png"/>
+<img width=5% title="Linux" src="https://img.icons8.com/color/96/000000/linux--v1.png"/>
+<img width=5% title="Javascript" src="https://img.icons8.com/color/96/000000/javascript--v1.png"/>
+<img width=5% title="HTML" src="https://img.icons8.com/dusk/128/000000/html-5.png" width="100"/>
+<img width=5% title="CSS3" src="https://img.icons8.com/dusk/128/000000/css3.png" width="100"/>
+<img width=5% title="ReactJs" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
+<img width=5% title="docker" src="https://img.icons8.com/dusk/128/000000/docker.png" width="100"/>
 
 </p>
 
