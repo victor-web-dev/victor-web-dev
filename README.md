@@ -45,6 +45,9 @@ Here are some ideas to get you started:
 <img width=5% title="CSS3" src="https://img.icons8.com/dusk/128/000000/css3.png" width="100"/>
 <img width=5% title="ReactJs" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
 <img width=5% title="docker" src="https://img.icons8.com/dusk/128/000000/docker.png" width="100"/>
+<img width=5% title="NodeJs" src="https://img.icons8.com/color/48/1A1A1A/nodejs.png" width="100"/>
+<img width=5% title="Typescript" src="https://img.icons8.com/fluency/144/000000/typescript.png" width="100"/>
+<img width=5% title="MySql" src="https://img.icons8.com/fluency/144/000000/mysql-logo.png" width="100"/>
 
 </p>
 
