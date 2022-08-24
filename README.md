@@ -3,6 +3,7 @@
 
 - 🌱 Currently developing myself; 
 - 🔭 Studying Web Dev at [Trybe](https://www.betrybe.com/);
+- ⚡ Junior FullStack Web developer
   
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=victor-web-dev&show_icons=true&theme=radical&bg_color=f5f6fa&text_color=e84118&hide_border=true&include_all_commits=true&count_private=true&title_color=192a56&icon_color=273c75" width="400" /> 
