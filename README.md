@@ -1,9 +1,11 @@
 # Hello, I'm Victor. <img width=5% src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" > 
 <p align="left"><img width=15% src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-- 🌱 Currently developing myself; 
-- 🔭 Studying Web Dev at [Trybe](https://www.betrybe.com/);
+- 🌱 Always developing myself; 
+- 🔭 Former Web Dev Student at [Trybe](https://www.betrybe.com/);
 - ⚡ Junior FullStack Web developer
+- Currently working at [eCode](https://www.agenciaecode.com.br/) as Node Developer;
+
   
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=victor-web-dev&show_icons=true&theme=radical&bg_color=f5f6fa&text_color=e84118&hide_border=true&include_all_commits=true&count_private=true&title_color=192a56&icon_color=273c75" width="400" /> 
@@ -27,6 +29,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [Github-Pages (in construction)](https://victor-web-dev.github.io/)
 - [ 2021 first semester - Project Template ](https://victor-web-dev.github.io/Dashboard-Template/)
+- [CryptoApp](https://github.com/victor-web-dev/cryptocurrency-app)
 <!-- BLOG-POST-LIST:END -->
 ## Contact
 <!-- CONTACT-LIST:START -->
