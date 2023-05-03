@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   
 ## Blog
 <!-- BLOG-POST-LIST:START -->
-- [Github-Pages (in construction)](https://victor-web-dev.github.io/)
+<!-- [Github-Pages (in construction)](https://victor-web-dev.github.io/) -->
 - [ 2021 first semester - Project Template ](https://victor-web-dev.github.io/Dashboard-Template/)
 - [CryptoApp](https://github.com/victor-web-dev/cryptocurrency-app)
 <!-- BLOG-POST-LIST:END -->
