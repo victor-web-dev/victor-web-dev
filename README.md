@@ -4,7 +4,6 @@
 - 🌱 Always developing myself; 
 - 🔭 Former Web Dev Student at [Trybe](https://www.betrybe.com/);
 - ⚡ Junior FullStack Web developer
-- Currently working at [eCode](https://www.agenciaecode.com.br/) as Node Developer;
 
   
 <p align="center">
