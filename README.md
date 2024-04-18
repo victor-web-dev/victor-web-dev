@@ -70,7 +70,3 @@ Here are some ideas to get you started:
 </p>
   
 <hr/>
-
-<p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=victor-web-dev.victor-web-dev" />
-</p>
