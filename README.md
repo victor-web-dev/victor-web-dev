@@ -3,7 +3,9 @@
 
 - 🌱 Always developing myself; 
 - 🔭 Former Web Dev Student at [Trybe](https://www.betrybe.com/);
-- ⚡ Junior FullStack Web developer
+- In Vancouver at the moment;
+- Web Development Co-op at [Tamwood Career](https://tamwood.com/);
+- ⚡ Junior Web developer
 
   
 <p align="center">
