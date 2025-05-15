@@ -3,8 +3,7 @@
 
 - 🌱 Always developing myself; 
 - 🔭 Former Web Dev Student at [Trybe](https://www.betrybe.com/);
-- In Vancouver at the moment;
-- Web Development Co-op at [Tamwood Career](https://tamwood.com/);
+- Finished Web Development Co-op at [Tamwood Career](https://tamwood.com/);
 - ⚡ Web developer
 
   
